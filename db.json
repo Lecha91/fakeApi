@@ -1,5 +1,4 @@
-{
-  "users": [
+[
   {
     "id": 1,
     "firstName": "Aleksandar",
@@ -21,5 +20,4 @@
     "email":"mitar@netcast.com",
     "password":"4321"
   }
-  ]
-}
+]
