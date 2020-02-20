@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "firstName": "Aleksandar",
+    "lastName": "Lecoski",
+    "email":"lecha@netcast.com",
+    "password":"05041991"
+  }
+  {
+    "id": 2,
+    "firstName": "Marko",
+    "lastName": "Petrovic",
+    "email":"mare@netcast.com",
+    "password":"1234"
+  }
+  {
+    "id": 3,
+    "firstName": "Dragan",
+    "lastName": "Mitrovic",
+    "email":"mitar@netcast.com",
+    "password":"4321"
+  }
+]
