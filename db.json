@@ -1,25 +1,237 @@
-{
-  "users":[
-    {
-      "id": 1,
-      "firstName": "Aleksandar",
-      "lastName": "Lecoski",
-      "email":"lecha@netcast.com",
-      "password":"05041991"
+[
+  {
+    content: {
+      actors: [],
+      characters: [],
+      countries: [],
+      createdAt: "2019-10-22T10:28:44",
+      directors: [],
+      genres: [
+        {
+          id: 3,
+          name: "drama"
+        }, 
+        {
+          id: 8,
+          name: "komedija"
+        }
+      ],
+      id: 36982,
+      imdbRate: "7.4",
+      isDefault: false,
+      multilanguageContents: {
+        srLat: {
+          alternativeTitles: null,
+          body: "Sve ljude ponekad dočeka loš dan, a Valeri, jedan takav započeo je tokom doručka kada je otkrila da njen sin ima vaške i da se mora nekako organizovati da bi stigla na veoma bitan poslovni sastanak. Nakon što bivši muž odbije da preume brigu o detetu, ona se obrati svojoj majci sa kojom nije baš bliska. Na sve uložene napore, ipak tog dana ostaje bez posla i suočena sa svim problemima odjednom primorana je da na teži način nauči da je nekad potrebno da izgubite sve da bi pronašli bolji put.",
+          countries: null,
+          episodeTitle: null,
+          id: 40716,
+          intro: "Samohrana majka pokušava na svaki način da ponovo ovlada svojim životom nakon izgaranja na profesionalnom i privatnom planu.",
+          language: null,
+          title: "Lâcher Prise"
+        }, 
+        en: {
+          alternativeTitles: null,
+          body: null,
+          countries: null,
+          episodeTitle: null,
+          id: 40717,
+          intro: null,
+          language: null,
+          title: "Lâcher-Prise"
+        }, 
+        srCyrl: {
+          alternativeTitles: null,
+          body: "Све људе понекад дочека лош дан, а Валери, један такав започео је током доручка када је открила да њен син има вашке и да се мора некако организовати да би стигла на веома битан пословни састанак. Након што бивши муж одбије да преуме бригу о детету, она се обрати својој мајци са којом није баш блиска. На све уложене напоре, ипак тог дана остаје без посла и суочена са свим проблемима одједном приморана је да на тежи начин научи да је некад потребно да изгубите све да би пронашли бољи пут.",
+          countries: null,
+          episodeTitle: null,
+          id: 40718,
+          intro: "Самохрана мајка покушава на сваки начин да поново овлада својим животом након изгарања на професионалном и приватном плану.",
+          language: null,
+          title: "Лâцхер Присе"
+        }
+      },
+      originalTitle: "Lâcher Prise",
+      photos: [
+        {
+          id: 71406,
+          path: "https://vuzz-backend.novafabrika.rs/upload//content/images/1585264305505-0a99ab6f-6082-4cb8-8e31-dc0718ddd039.jpg",
+          type: "portrait"
+        }, 
+        {
+          id: 71405,
+          path: "https://vuzz-backend.novafabrika.rs/upload//content/images/1585264310193-91f09efb-d2fc-4055-977a-9855c7265a14.jpg",
+          type: "landscape"
+        }
+      ],
+      runtime: "30",
+      slug: "lacher-prise",
+      tags: [],
+      trailerUrl: "https://youtu.be/sGdT9EOLdfg",
+      type: {
+        id: 7, 
+        name: "ostalo"
+      },
+      updatedAt: "2020-03-27T00:59:20",
+      writers: []
     },
-    {
-      "id": 2,
-      "firstName": "Marko",
-      "lastName": "Petrovic",
-      "email":"mare@netcast.com",
-      "password":"1234"
+    id: 4,
+    seasons: null,
+    videoClubId: 4,
+    vodTechnicalDtos: [
+      {
+        baseName: "Teströl És Lélekröl  (On Body And Soul) - HD",
+        duration: 788,
+        id: 2,
+        size: 196585494,
+        storagePath:"asdads"
+      },
+      {
+        baseName: "Teströl És Lélekröl  (On Body And Soul) - HD",
+        duration: 788,
+        id: 2,
+        size: 196585494,
+        storagePath:"asasd"
+      }
+    ]
+  },
+  {
+    content: {
+      actors: [],
+      characters: [],
+      countries: [],
+      createdAt: "2019-10-22T10:28:44",
+      directors: [],
+      genres: [
+        {
+          id: 3,
+          name: "drama"
+        }, 
+        {
+          id: 8,
+          name: "komedija"
+        }
+      ],
+      id: 36982,
+      imdbRate: "7.4",
+      isDefault: false,
+      multilanguageContents: {
+        srLat: {
+          alternativeTitles: null,
+          body: "Film govori o životnoj priči Splintera i Nindža kornjača, njihovom prvom susretu s Ejpril O'Nil i Kejsijem Džounsom, kao i prvom sukobu sa Sekačem i njegovim Klanom Stopala",
+          countries: null,
+          episodeTitle: null,
+          id: 4354,
+          intro: "Film govori o životnoj priči Splintera i Nindža kornjača, njihovom prvom susretu s Ejpril O'Nil i Kejsijem Džounsom, kao i prvom sukobu sa Sekačem i njegovim Klanom Stopala",
+          language: null,
+          title: "Nindža Kornjače"
+        }
+      },
+      originalTitle: "Teenage Mutant Ninja Turtles",
+      photos: [
+        {
+          id: 8701,
+          path: "https://vuzz-backend.novafabrika.rs/upload/content/images/uploads/1540370223teenageturtles.jpg",
+          type: "portrait"
+        }, 
+        {
+          id: 8702,
+          path: "https://vuzz-backend.novafabrika.rs/upload/content/images/uploads/1540370223Teenage-Mutant-Ninja-Turtles.jpg",
+          type: "landscape"
+        }
+      ],
+      runtime: "30",
+      slug: "mladi-mutanti-nindza-kornjace",
+      tags: [],
+      trailerUrl: "https://youtu.be/sGdT9EOLdfg",
+      type: {
+        id: 7, 
+        name: "ostalo"
+      },
+      updatedAt: "2020-03-27T00:59:20",
+      writers: []
     },
-    {
-      "id": 3,
-      "firstName": "Dragan",
-      "lastName": "Mitrovic",
-      "email":"mitar@netcast.com",
-      "password":"4321"
-    }
-  ]
-}
+    id: 4,
+    seasons: null,
+    videoClubId: 4,
+    vodTechnicalDtos: [
+      {
+        baseName: "Teenage Mutant Ninja Turtles - HD",
+        duration: 269,
+        id: 9,
+        size: 7286663,
+        storagePath: "asdads"
+      }
+    ]
+  },
+  {
+    content: {
+      actors: [],
+      characters: [],
+      countries: [],
+      createdAt: "2019-10-22T10:28:44",
+      directors: [],
+      genres: [
+        {
+          id: 3,
+          name: "drama"
+        }, 
+        {
+          id: 8,
+          name: "komedija"
+        }
+      ],
+      id: 36982,
+      imdbRate: "7.4",
+      isDefault: false,
+      multilanguageContents: {
+        srLat: {
+          alternativeTitles: null,
+          body: "Radnja filma prati pet običnih tinejdžera, koji moraju da postanu neka vrsta superheroja kada saznaju da je njihov mali grad Angel Grove zajedno sa svetom na ivici uništenja jer mu preti invazija vanzemaljaca. Ubrzo otkrivaju da su oni jedini koji mogu da spase Zemlju od propasti. Da bi uspeli u tome moraju da preovladaju svoje lične probleme pre nego što bude prekasno, i da se udruže kao Moćni Rendžeri.",
+          countries: null,
+          episodeTitle: null,
+          id: 9564,
+          intro: "Produkcijska kuća Saba’s donosi zabavni, znanstveno fantastični film, nastao prema akcijskoj televizijskoj seriji o četiri superjunaka – MOĆNI RENDŽERI.",
+          language: null,
+          title: "Moćni Rendžeri"
+        }
+      },
+      originalTitle: "Power Rangers",
+      photos: [
+        {
+          id: 19114,
+          path: "https://vuzz-backend.novafabrika.rs/upload/content/images/photos/shares/imdb_import/power-rangers/tt3717490.jpg",
+          type: "portrait"
+        }, 
+        {
+          id: 19115,
+          path: "https://vuzz-backend.novafabrika.rs/upload/content/images/photos/shares/imdb_import/power-rangers/mocni-rendzeri-1.jpg",
+          type: "landscape"
+        }
+      ],
+      runtime: "30",
+      slug: "lacher-prise",
+      tags: [],
+      trailerUrl: "https://youtu.be/sGdT9EOLdfg",
+      type: {
+        id: 7, 
+        name: "ostalo"
+      },
+      updatedAt: "2020-03-27T00:59:20",
+      writers: []
+    },
+    id: 4,
+    seasons: null,
+    videoClubId: 4,
+    vodTechnicalDtos: [
+      {
+        baseName: "Power Rangers - HD",
+        duration: 269,
+        id: 8,
+        size: 7286663,
+        storagePath: "neki storage path"
+      }
+    ]
+  }
+]
+ 
