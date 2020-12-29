@@ -82,10 +82,10 @@
     "vodTechnicalDtos": [
       {
         "baseName": "Teströl És Lélekröl  (On Body And Soul) - HD",
-        "duration": 99,
+        "duration": 653,
         "id": 2,
         "size": 196585494,
-        "storagePath":"https://www.radiantmediaplayer.com/media/big-buck-bunny-360p.mp4"
+        "storagePath":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
       }
     ]
   },
@@ -145,7 +145,7 @@
       "updatedAt": "2020-03-27T00:59:20",
       "writers": []
     },
-    "id": 4,
+    "id": 5,
     "seasons": null,
     "videoClubId": 4,
     "vodTechnicalDtos": [
@@ -214,16 +214,16 @@
       "updatedAt": "2020-03-27T00:59:20",
       "writers": []
     },
-    "id": 4,
+    "id": 6,
     "seasons": null,
     "videoClubId": 4,
     "vodTechnicalDtos": [
       {
         "baseName": "Power Rangers - HD",
-        "duration": 125,
+        "duration": 887,
         "id": 8,
         "size": 7286663,
-        "storagePath": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
+        "storagePath": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
       }
     ]
   }
