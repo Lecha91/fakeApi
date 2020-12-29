@@ -81,17 +81,10 @@
     "vodTechnicalDtos": [
       {
         "baseName": "Teströl És Lélekröl  (On Body And Soul) - HD",
-        "duration": 788,
+        "duration": 99,
         "id": 2,
         "size": 196585494,
-        "storagePath":"asdads"
-      },
-      {
-        "baseName": "Teströl És Lélekröl  (On Body And Soul) - HD",
-        "duration": 788,
-        "id": 2,
-        "size": 196585494,
-        "storagePath":"asasd"
+        "storagePath":"https://www.radiantmediaplayer.com/media/big-buck-bunny-360p.mp4"
       }
     ]
   },
@@ -157,10 +150,10 @@
     "vodTechnicalDtos": [
       {
         "baseName": "Teenage Mutant Ninja Turtles - HD",
-        "duration": 269,
+        "duration": 596,
         "id": 9,
         "size": 7286663,
-        "storagePath": "asdads"
+        "storagePath": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
       }
     ]
   },
@@ -226,10 +219,10 @@
     "vodTechnicalDtos": [
       {
         "baseName": "Power Rangers - HD",
-        "duration": 269,
+        "duration": 125,
         "id": 8,
         "size": 7286663,
-        "storagePath": "neki storage path"
+        "storagePath": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
       }
     ]
   }
